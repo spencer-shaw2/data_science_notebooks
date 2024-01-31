@@ -11,4 +11,6 @@ ________________________________________________________________________________
 
 **NOTE:** To skip down to the model explainability portion of the notebook, please just down to the *"Model 1.1: Linear Regression with Reduced Features"*.
 
+🔑 Click [here](https://github.com/spencer-shaw2/portfolio/blob/main/data_science_notebooks/Machine%20Learning%20Model%20Explainability.ipynb) to access the noteback, and click [here](https://github.com/spencer-shaw2/portfolio/blob/main/data_science_notebooks/data/superstore.xlsx) to see the underlying dataset. You can download both the dataset and the notebook to run on your local machine if you would like!
+
 ## Project Number 2
