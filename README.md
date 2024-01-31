@@ -3,14 +3,21 @@
 
 _____________________________________________________________________________________________________________________________________
 **Table of Contents:**<br>
-[Model Explainability](#-machine-learning-model-explainability)&emsp;◇&emsp;[Project Two](#project-number-2)
+[Next Gen Stats - NFL](#-geospatial-analysis-of-missed-tackles-in-the-nfl)&emsp;◇&emsp;[ML Model Explainability](#-machine-learning-model-explainability)
 _____________________________________________________________________________________________________________________________________
+
+## 🏈 Geospatial Analysis of Missed Tackles in the NFL
+*This notebook is a final submission to the 'NFL Big Data Bowl 2024' Kaggle competition. This competition used data collected by AWS Next Gen Stats to challenege the way traditional statistics analyze tackling in the NFL. In this notebook, an in-depth analyze of the quality of missed tackles took place, challenging traditional tackling statistics. IMPORTANT: Due to data access restrictions after the completion of competitions, the notebook is not in GitHub but hosted on Kaggle.*
+
+**Recognition:**
+  * 🥉: Bronze medal awarded on the Kaggle platform for number of upvotes.
+
+🔑 **NOTE: The below link will take you to kaggle.com, external from github.com**
+  * To view the notebook, click [here](https://www.kaggle.com/code/spencershaw3/geospatial-analysis-of-missed-tackles-in-the-nfl).
 
 ## 📊 Machine Learning Model Explainability
 *This notebook demonstrates techniques used to understand* **how** *machine learning models make predictions. Although this notebook is not focused on searching for the best predictions for this dataset, there are some techniques used to achieve a good fit.*
 
-**NOTE:** To skip down to the model explainability portion of the notebook, please just down to the *"Model 1.1: Linear Regression with Reduced Features"*.
+**NOTE:** To skip down to the model explainability portion of the notebook, please scroll down to the *"Model 1.1: Linear Regression with Reduced Features"* header.
 
-🔑 Click [here](https://github.com/spencer-shaw2/portfolio/blob/main/data_science_notebooks/Machine%20Learning%20Model%20Explainability.ipynb) to access the noteback, and click [here](https://github.com/spencer-shaw2/portfolio/blob/main/data_science_notebooks/data/superstore.xlsx) to see the underlying dataset. You can download both the dataset and the notebook to run on your local machine if you would like!
-
-## Project Number 2
+🔑 Click [here](https://github.com/spencer-shaw2/portfolio/blob/main/data_science_notebooks/Machine%20Learning%20Model%20Explainability.ipynb) to access the noteback, and click [here](https://github.com/spencer-shaw2/portfolio/blob/main/data_science_notebooks/data/superstore.xlsx) to see the underlying dataset. You can download both the dataset and the notebook to run on your local machine!
