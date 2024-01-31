@@ -3,7 +3,7 @@
 
 _____________________________________________________________________________________________________________________________________
 **Table of Contents:**<br>
-[Model Explainability](machine-learning-model-explainability)&emsp;◇&emsp;[Project Two](project-number-2)
+[Model Explainability](-machine-learning-model-explainability)&emsp;◇&emsp;[Project Two](-project-number-2)
 _____________________________________________________________________________________________________________________________________
 
 ## 📊 Machine Learning Model Explainability
