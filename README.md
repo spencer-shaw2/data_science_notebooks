@@ -7,7 +7,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________
 
 # 🏈 Geospatial Analysis of Missed Tackles in the NFL
-*This notebook is a final submission to the 'NFL Big Data Bowl 2024' Kaggle competition. This competition used data collected by AWS Next Gen Stats to challenege the way traditional statistics analyze tackling in the NFL. In this notebook, an in-depth analyze of the quality of missed tackles took place, challenging traditional tackling statistics. IMPORTANT: Due to data access restrictions after the completion of competitions, the notebook is not in GitHub but hosted on Kaggle.*
+*This notebook is a final submission to the 'NFL Big Data Bowl 2024' Kaggle competition. This competition used data collected by AWS Next Gen Stats to challenge the way traditional statistics analyze tackling in the NFL. In this notebook, an in-depth analysis of the quality of missed tackles is evaluated using player tracking data. IMPORTANT: Due to data access restrictions after the completion of competitions, the notebook is not in GitHub but hosted on Kaggle.*
 
 **Recognition:**
   * 🥉: Bronze medal awarded on the Kaggle platform for number of upvotes.
